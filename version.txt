@@ -1,7 +1,7 @@
 DBOG-MAJ
-version=1.1.0.0
+version=1.2.0.0
 exe=MacroRoblox.exe
-sha256=7010DE365B03F07739F76AF5F7362EF97271806AF9BA7AF6214B684E93EDB792
-notes=Zones à la souris (✂ Zones), comme l'outil Capture | Mises à jour automatiques
-date=2026-11-10 13:35
-sig=tsylueGBMhDW+jjQgCRBFBsoXYMeuluOeZwJv74Y7lVsaepHNTMKHsIYp4BMp/qmu9DG7hjbHGG890ni7mi/N0aoZHwZdUAh1Kayd6QrKzs1odW6aa6nmv82n9ZsaT+U/okNIWgR96K3BD+zMNoJr7EH2Q5L8ZK+faEOEw0N3e0=
+sha256=7949348D7BB3456424CEFA68F25C6E3BCD93051CCCA7807720AD1BFA13988840
+notes=Time Chamber : le 50/50 est lu même avec le sol blanc derrière (plus de blocage en Ki) | Time Chamber: 50/50 is read even with the white floor behind (no more getting stuck in Ki)
+date=2026-11-11 00:13
+sig=3bhD1dFyzSfxPelmxuXVM8PBO/t7uSPar18VGUX7vD/hLLeGe5X7vJttkANTlv+cLSpo3QiPxGwtmRN/u1mBaL8zsHpKi0psNS3g4Py38LIWFpleT9Wl5/DPDGrxChWfWCf+HoDwG66L0tz8jptu0NGu9Mokqxtj5g1bUlLuqFg=
