@@ -1,0 +1,7 @@
+DBOG-MAJ
+version=1.1.0.0
+exe=MacroRoblox.exe
+sha256=7010DE365B03F07739F76AF5F7362EF97271806AF9BA7AF6214B684E93EDB792
+notes=Zones à la souris (✂ Zones), comme l'outil Capture | Mises à jour automatiques
+date=2026-11-10 13:35
+sig=tsylueGBMhDW+jjQgCRBFBsoXYMeuluOeZwJv74Y7lVsaepHNTMKHsIYp4BMp/qmu9DG7hjbHGG890ni7mi/N0aoZHwZdUAh1Kayd6QrKzs1odW6aa6nmv82n9ZsaT+U/okNIWgR96K3BD+zMNoJr7EH2Q5L8ZK+faEOEw0N3e0=
