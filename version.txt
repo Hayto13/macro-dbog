@@ -1,7 +1,7 @@
 DBOG-MAJ
-version=1.3.0.0
+version=1.3.1.0
 exe=MacroRoblox.exe
-sha256=B72EEC8524B54EF123D19FEB2D08939D308C68AE9B0F27606637BF321D057652
-notes=Taille de l'écran : choisis-la dans « ✂ Écran · zones » (de 1024 x 768 à la 4K), la macro s'adapte toute seule | Screen size: pick it in « ✂ Screen · zones » (from 1024 x 768 to 4K), the macro adapts by itself
-date=2026-11-11 02:43
-sig=n59N9sWXH1DuNjb4mLGDo4ReKoVyb7ICWBkwWmh2N1kP+fk4syFaTk7G6bIn7yf2py0rTE7+S6QRjzUeLj9wnTDoWPmKu3F67zTYOX0mMxya3HuCoWdmSUtfm0CIOdfXxy/lqojYNbnulTCDXcTpZ+qiVtgYeQt74ywVQjCTtFc=
+sha256=4CE41EAC46B42FA985DC4E950281A423F5814BFD9162F128EE87C3D693C88376
+notes=Nouveau logo de la macro (N13 · DBOG), sur le Bureau, la fenêtre et la barre des tâches | New macro logo (N13 · DBOG), on the desktop, the window and the taskbar
+date=2026-11-11 14:47
+sig=0Eol11ev+f4QOa2RKb/pleJ5VQPOkcI7oQfu9xv9uVbkyD3ejdbJM88X8Mq3PMvC/1uXCX4WGML6KUs5y2aNjcpbfsZe6gF7NPsZUoUELLsJsMtbfOEpi6P0wVPNDpEzGeL520rVWZhdu84jfnfbCHL+nujgsNBx5TnhSUySHEY=
