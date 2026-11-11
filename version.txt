@@ -1,7 +1,7 @@
 DBOG-MAJ
-version=1.2.0.0
+version=1.3.0.0
 exe=MacroRoblox.exe
-sha256=7949348D7BB3456424CEFA68F25C6E3BCD93051CCCA7807720AD1BFA13988840
-notes=Time Chamber : le 50/50 est lu même avec le sol blanc derrière (plus de blocage en Ki) | Time Chamber: 50/50 is read even with the white floor behind (no more getting stuck in Ki)
-date=2026-11-11 00:13
-sig=3bhD1dFyzSfxPelmxuXVM8PBO/t7uSPar18VGUX7vD/hLLeGe5X7vJttkANTlv+cLSpo3QiPxGwtmRN/u1mBaL8zsHpKi0psNS3g4Py38LIWFpleT9Wl5/DPDGrxChWfWCf+HoDwG66L0tz8jptu0NGu9Mokqxtj5g1bUlLuqFg=
+sha256=B72EEC8524B54EF123D19FEB2D08939D308C68AE9B0F27606637BF321D057652
+notes=Taille de l'écran : choisis-la dans « ✂ Écran · zones » (de 1024 x 768 à la 4K), la macro s'adapte toute seule | Screen size: pick it in « ✂ Screen · zones » (from 1024 x 768 to 4K), the macro adapts by itself
+date=2026-11-11 02:43
+sig=n59N9sWXH1DuNjb4mLGDo4ReKoVyb7ICWBkwWmh2N1kP+fk4syFaTk7G6bIn7yf2py0rTE7+S6QRjzUeLj9wnTDoWPmKu3F67zTYOX0mMxya3HuCoWdmSUtfm0CIOdfXxy/lqojYNbnulTCDXcTpZ+qiVtgYeQt74ywVQjCTtFc=
