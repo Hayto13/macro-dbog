@@ -1,7 +1,7 @@
 DBOG-MAJ
-version=1.6.1.0
+version=1.6.2.0
 exe=MacroRoblox.exe
-sha256=B41A4C09A6C93C95E0DFA8F39E19984630CE6A09699D57B27B7BA2F118BE20F8
-notes=Poids : la macro met aussi tes poids dès le lancement, puis après chaque respawn en Gravity | Weights: the macro also puts your weights on at start, then after each respawn in Gravity
-date=2026-11-12 16:14
-sig=14uaTRPI8TxYQ4k2BYtF1TT8kKB45X8o0s2od/kB2kcdvryRAyCDJOq1VsIylcztBgBLHdFvKYZTo7zdxXtWMpr7Dqq025IPK1QxWC/6oleFjCfrDZfeWqlpZeurc2IryFqYoH9SrZ5dZ46l2rPqwQzbwVI+EgrCjIrrr5UixJE=
+sha256=A770C5556E84D2D6E5E47C1908F79116960BFCC7859B9C5F35B941E96EA7EA6C
+notes=Physical / Agility : les lettres sont rangées dans la macro, elles marchent même si le dossier « modeles » manque | Physical / Agility: the letters are built into the macro, they work even if the modeles folder is missing
+date=2026-11-12 18:09
+sig=jfSXtCE76/j0+C21ai4GX+6VKH1fiy90LYWiUbvtw6YP7cHpQqZecFZ55EnR4Itqcqf3wmYcWCmvcU8ZWfKqth9wxojAxCC2UsyzOoNmZsfKzhuJHk1uo2WsuklIz4OGodfQ0NSd2NBy32OJW9Del8mMNlx0pF6a5y0ocPmZS8E=
