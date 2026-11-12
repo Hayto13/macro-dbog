@@ -1,7 +1,7 @@
 DBOG-MAJ
-version=1.3.1.0
+version=1.5.0.0
 exe=MacroRoblox.exe
-sha256=4CE41EAC46B42FA985DC4E950281A423F5814BFD9162F128EE87C3D693C88376
-notes=Nouveau logo de la macro (N13 · DBOG), sur le Bureau, la fenêtre et la barre des tâches | New macro logo (N13 · DBOG), on the desktop, the window and the taskbar
-date=2026-11-11 14:47
-sig=0Eol11ev+f4QOa2RKb/pleJ5VQPOkcI7oQfu9xv9uVbkyD3ejdbJM88X8Mq3PMvC/1uXCX4WGML6KUs5y2aNjcpbfsZe6gF7NPsZUoUELLsJsMtbfOEpi6P0wVPNDpEzGeL520rVWZhdu84jfnfbCHL+nujgsNBx5TnhSUySHEY=
+sha256=CAFC9B7352C9690F3002D6D524725887D08EF03722962FA3EBEF9A454A561FD6
+notes=Mode ping : la macro s'adapte quand tu as du lag (case dans Entraînement auto) + clés de licence plus courtes | Ping mode: the macro adapts when you lag (checkbox in Auto training) + shorter license keys
+date=2026-11-12 12:55
+sig=P7McuyYvTww8XoG2y8T9LwHSyS8vK8M8fs1K1TXQee/12zd8UZEKuyHUQCOVaHwMfQqGOfscK9tVkSmOZgmjh6Cr6oCOmYl+9Ms+/b7i0i9Bh/CF3d5d3QjR3LhprPqOLFuXx306GlhKv5xcS09C0YOxYMRMWEyEK/b5yYQ6mr4=
