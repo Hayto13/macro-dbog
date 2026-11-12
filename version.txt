@@ -1,7 +1,7 @@
 DBOG-MAJ
-version=1.5.0.0
+version=1.6.0.0
 exe=MacroRoblox.exe
-sha256=CAFC9B7352C9690F3002D6D524725887D08EF03722962FA3EBEF9A454A561FD6
-notes=Mode ping : la macro s'adapte quand tu as du lag (case dans Entraînement auto) + clés de licence plus courtes | Ping mode: the macro adapts when you lag (checkbox in Auto training) + shorter license keys
-date=2026-11-12 12:55
-sig=P7McuyYvTww8XoG2y8T9LwHSyS8vK8M8fs1K1TXQee/12zd8UZEKuyHUQCOVaHwMfQqGOfscK9tVkSmOZgmjh6Cr6oCOmYl+9Ms+/b7i0i9Bh/CF3d5d3QjR3LhprPqOLFuXx306GlhKv5xcS09C0YOxYMRMWEyEK/b5yYQ6mr4=
+sha256=AA5BE27A28A6090C287D0640B3DC75990C7F4B9BDB06212DFFABDEF43DF066D7
+notes=Poids : la macro remet tes poids après chaque respawn en Gravity (H puis la touche choisie) | Weights: the macro puts your weights back on after each respawn in Gravity (H then the chosen key)
+date=2026-11-12 16:10
+sig=YbCHDd3q32k2n6X3w8AKO6pQcy+aWSXSubXfeSuJXCGLBkhkTHrzOdkRwioWAR/VU+QWX+yqCp3i8vP+ydah7gNFCh+RAir77TngkVBjfgEeIWTFlX3cK3rREkd4Joo9Di/t87wsPSy1wkZZMcU2WtEWzrRaNO8uEh7gtmJXJaU=
