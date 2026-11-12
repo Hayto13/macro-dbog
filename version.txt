@@ -1,7 +1,7 @@
 DBOG-MAJ
-version=1.6.0.0
+version=1.6.1.0
 exe=MacroRoblox.exe
-sha256=AA5BE27A28A6090C287D0640B3DC75990C7F4B9BDB06212DFFABDEF43DF066D7
-notes=Poids : la macro remet tes poids après chaque respawn en Gravity (H puis la touche choisie) | Weights: the macro puts your weights back on after each respawn in Gravity (H then the chosen key)
-date=2026-11-12 16:10
-sig=YbCHDd3q32k2n6X3w8AKO6pQcy+aWSXSubXfeSuJXCGLBkhkTHrzOdkRwioWAR/VU+QWX+yqCp3i8vP+ydah7gNFCh+RAir77TngkVBjfgEeIWTFlX3cK3rREkd4Joo9Di/t87wsPSy1wkZZMcU2WtEWzrRaNO8uEh7gtmJXJaU=
+sha256=B41A4C09A6C93C95E0DFA8F39E19984630CE6A09699D57B27B7BA2F118BE20F8
+notes=Poids : la macro met aussi tes poids dès le lancement, puis après chaque respawn en Gravity | Weights: the macro also puts your weights on at start, then after each respawn in Gravity
+date=2026-11-12 16:14
+sig=14uaTRPI8TxYQ4k2BYtF1TT8kKB45X8o0s2od/kB2kcdvryRAyCDJOq1VsIylcztBgBLHdFvKYZTo7zdxXtWMpr7Dqq025IPK1QxWC/6oleFjCfrDZfeWqlpZeurc2IryFqYoH9SrZ5dZ46l2rPqwQzbwVI+EgrCjIrrr5UixJE=
